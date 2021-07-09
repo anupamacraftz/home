@@ -11336,11 +11336,12 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url('../assets/img/header-bg-black.jpg');
+  background-image: url('../assets/img/logo.png');
+  background-color:#000000;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: 773px 350px;
 }
 header.masthead .masthead-subheading {
   //font-size: 1.5rem;
